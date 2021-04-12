@@ -20,8 +20,8 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_output_directory: _site
-  install_dependencies_command: gem install bundler && bundle update --bundler &&
-    gem install middleman && bundle install
+  install_dependencies_command: gem install bundler && gem install middleman && bundle
+    install
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   working_dir: "/srv"
