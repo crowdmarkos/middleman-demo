@@ -13,6 +13,3 @@ fields:
   default:
   - scene
   label: tags
-  label: A select field
-  description: The description for this select field
-  hidden: false
