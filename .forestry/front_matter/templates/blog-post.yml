@@ -8,8 +8,3 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: tags
-  type: tag_list
-  default:
-  - scene
-  label: tags
