@@ -17,6 +17,6 @@ fields:
     schema:
       format: markdown
   label: input stuff
-  hidden: true
+  hidden: false
 pages:
 - source/posts/new-blog-post.md
