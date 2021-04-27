@@ -8,3 +8,12 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: input_stuff
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: input stuff

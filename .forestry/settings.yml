@@ -19,9 +19,9 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
-  preview_output_directory: /build
+  preview_output_directory: "/build"
   install_dependencies_command: bundle install
   preview_docker_image: crowdmarkos/middleman-demo:firsttry
   mount_path: "/myapp"
   working_dir: "/myapp"
-  instant_preview_command: build middleman
+  instant_preview_command: bundle exec middleman server
