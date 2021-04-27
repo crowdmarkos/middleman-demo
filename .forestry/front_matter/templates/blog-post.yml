@@ -8,19 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: a_select_field
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - first
-    - second
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+- name: tags
+  type: tag_list
+  default:
+  - scene
+  label: tags
   label: A select field
   description: The description for this select field
   hidden: false
