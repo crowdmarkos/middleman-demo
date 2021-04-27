@@ -11,6 +11,7 @@ sections:
   label: Blog Posts
   create: all
   match: "**/*"
+  new_doc_ext: html.md
   templates:
   - blog-post
 upload_dir: uploads
