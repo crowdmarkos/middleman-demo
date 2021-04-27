@@ -8,3 +8,17 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: a_select_field
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: A select field
+  description: The description for this select field
+  hidden: false
