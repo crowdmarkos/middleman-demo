@@ -1,7 +1,7 @@
 ---
 title: Example Article
-date: 2019-01-01
-input_stuff: ayyyyyy
+date: 2021-04-13T04:00:00Z
+input_stuff: ''
 
 ---
 This is an example article. You probably want to delete it and write your own articles once you finished this guide!
