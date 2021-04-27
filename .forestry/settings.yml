@@ -23,4 +23,5 @@ build:
   install_dependencies_command: bundle install
   preview_docker_image: crowdmarkos / middleman-demo
   mount_path: "/myapp"
-  instant_preview_command: docker-compose up
+  instant_preview_command: docker run -p 4567:4567 -p 1234:1234 --rm -v $PWD:/myapp
+    crowdmarkos/middleman-demo:firsttry middleman se rver
