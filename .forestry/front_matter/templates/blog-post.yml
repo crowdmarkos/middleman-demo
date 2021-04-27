@@ -13,7 +13,9 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - first
+    - second
     source:
       type: simple
       section: 
