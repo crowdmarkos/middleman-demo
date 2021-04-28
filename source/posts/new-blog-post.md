@@ -1,5 +1,5 @@
 ---
-title: New blog post
+title: How instructors can prepare students for online assessments
 date: 2021-04-30T04:00:00.000+00:00
 input_stuff: Some input text
 
@@ -47,3 +47,5 @@ Preparing students for important exams and assessments virtually is hard enough.
 To help make these critical tasks less time-consuming, try a digital grading tool like Crowdmark. 
 
 > Both students and educators enjoy using the simple, straightforward platform, which can help [cut down on tasks like grading by 50%](https://crowdmark.com/our-story/). [Get in touch today](https://crowdmark.com/contact/) to start with a free trial.
+
+    
