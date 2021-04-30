@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: source/index.html.erb
+  path: source/index.html
   label: Index
 - type: heading
   label: Content
