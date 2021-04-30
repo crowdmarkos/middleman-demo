@@ -15,7 +15,7 @@ sections:
   templates:
   - blog-post
 - type: document
-  path: source/index.html
+  path: source/index.html.erb
   label: Index
 upload_dir: uploads
 public_path: "/uploads"
